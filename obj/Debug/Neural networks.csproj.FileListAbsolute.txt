@@ -1,0 +1,6 @@
+C:\Users\Vito\Documents\repos\NeuralNetworks\NeuralNetworks\bin\Debug\Neural networks.exe.config
+C:\Users\Vito\Documents\repos\NeuralNetworks\NeuralNetworks\obj\Debug\Neural networks.csprojResolveAssemblyReference.cache
+C:\Users\Vito\Documents\repos\NeuralNetworks\NeuralNetworks\bin\Debug\Neural networks.exe
+C:\Users\Vito\Documents\repos\NeuralNetworks\NeuralNetworks\bin\Debug\Neural networks.pdb
+C:\Users\Vito\Documents\repos\NeuralNetworks\NeuralNetworks\obj\Debug\Neural networks.exe
+C:\Users\Vito\Documents\repos\NeuralNetworks\NeuralNetworks\obj\Debug\Neural networks.pdb
